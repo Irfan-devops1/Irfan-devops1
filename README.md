@@ -54,7 +54,26 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 # 🚀 Featured DevOps Projects
 
-## 1. AWS EKS Three-Tier Robot Shop
+##  1. ShopSphere – Three-Tier Microservices DevSecOps Project
+
+**End-to-End DevSecOps | AWS EC2 | Jenkins | Docker | Kubernetes | Helm | Argo CD | SonarQube | Trivy | Prometheus | Grafana**
+
+Implemented an end-to-end three-tier microservices DevSecOps project, integrating CI/CD automation, containerization, security scanning, Kubernetes orchestration, GitOps-based deployment, and monitoring.
+
+**Key Implementations:**
+- AWS EC2 infrastructure and application hosting.
+- Jenkins CI/CD pipeline automation.
+- Docker image building and Docker Hub integration.
+- SonarQube code quality analysis.
+- OWASP Dependency-Check and Trivy vulnerability scanning.
+- Kubernetes application deployment and Helm package management.
+- Argo CD GitOps continuous delivery and synchronization.
+- Prometheus and Grafana monitoring and visualization.
+- React frontend, Nginx, Catalog Service, Order Service, Payment Service, and PostgreSQL database.
+
+🔗 **GitHub Repository:** [ShopSphere – Three-Tier DevSecOps Project](https://github.com/Irfan-devops1/ShopSphere-Three-Tier-DevSecOps-Project)
+
+## 2. AWS EKS Three-Tier Robot Shop
 
 **Technologies:** AWS EKS, Kubernetes, Helm, Docker, AWS Load Balancer Controller, MongoDB, Redis, MySQL, RabbitMQ.
 
@@ -69,7 +88,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 2. Netflix Clone – DevSecOps CI/CD Pipeline
+## 3. Netflix Clone – DevSecOps CI/CD Pipeline
 
 **Technologies:** Jenkins, Docker, Kubernetes, SonarQube, Trivy, OWASP Dependency-Check, Argo CD, Prometheus, Grafana.
 
@@ -86,7 +105,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 3. Terraform Provisioners with AWS & GitHub Actions
+## 4. Terraform Provisioners with AWS & GitHub Actions
 
 **Technologies:** AWS EC2, Terraform, GitHub Actions, AWS IAM OIDC, Amazon S3, Python, Flask.
 
@@ -102,7 +121,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 4. Terraform AWS Resource Import – Existing Infrastructure Management
+## 5. Terraform AWS Resource Import – Existing Infrastructure Management
 
 **Technologies:** AWS EC2, S3, DynamoDB, Terraform, AWS CLI, PowerShell.
 
@@ -118,7 +137,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 5. Terraform AWS Multi-Environment Infrastructure
+## 6. Terraform AWS Multi-Environment Infrastructure
 
 **Technologies:** AWS, Terraform, HCL, EC2, S3, DynamoDB, IAM.
 
@@ -133,7 +152,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 6. Terraform Workspaces – Multi-Environment Management
+## 7. Terraform Workspaces – Multi-Environment Management
 
 **Technologies:** Terraform, HCL, AWS, Terraform CLI, Infrastructure as Code.
 
@@ -147,7 +166,7 @@ My focus is on building reliable, scalable, secure, and automated infrastructure
 
 ---
 
-## 7. Node.js To-Do – CI/CD DevOps Project
+## 8. Node.js To-Do – CI/CD DevOps Project
 
 **Technologies:** Jenkins, Docker, Kubernetes, Kind, Helm, Argo CD, Prometheus, Grafana.
 
